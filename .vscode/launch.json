@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiCadastroPessoasApplication<api-cadastro-pessoas>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ag.apicadastropessoas.ApiCadastroPessoasApplication",
+            "projectName": "api-cadastro-pessoas",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
